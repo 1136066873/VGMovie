@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/search"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:layout_alignParentRight="true"
+    android:gravity="center_vertical"
+    android:orientation="horizontal"
+    android:paddingLeft="@dimen/inner_padding_size"
+    android:paddingRight="@dimen/inner_padding_size" >
+
+    <ImageView
+        android:layout_width="22dp"
+        android:layout_height="22dp"
+        android:background="@drawable/top_search_n"
+        android:focusable="false"
+        android:scaleType="centerInside" />
+
+</LinearLayout>

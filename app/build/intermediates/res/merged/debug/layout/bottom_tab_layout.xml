@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:tabItem="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal"
+    android:paddingTop="8dp"
+    android:paddingBottom="8dp"
+    android:background="@color/background_bg7">
+
+    <vgmovie.heguodong.customview.CustomTabItemView
+        android:id="@+id/movie"
+        style="@style/CustomTabItemStyle"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:orientation="vertical"
+
+        tabItem:contentLogoBack="@drawable/selector_tab_movie"
+        tabItem:contentTextString="电影"
+         />
+
+    <vgmovie.heguodong.customview.CustomTabItemView
+        android:id="@+id/cinema"
+        style="@style/CustomTabItemStyle"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:orientation="vertical"
+
+        tabItem:contentLogoBack="@drawable/selector_tab_cinema"
+        tabItem:contentTextString="影院"
+
+        />
+
+    <vgmovie.heguodong.customview.CustomTabItemView
+        android:id="@+id/community"
+        style="@style/CustomTabItemStyle"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:orientation="vertical"
+
+        tabItem:contentLogoBack="@drawable/selector_tab_community"
+        tabItem:contentTextString="发现"
+
+        />
+
+    <vgmovie.heguodong.customview.CustomTabItemView
+        android:id="@+id/mine"
+        style="@style/CustomTabItemStyle"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:orientation="vertical"
+
+        tabItem:contentLogoBack="@drawable/selector_tab_mine"
+        tabItem:contentTextString="我的"
+
+
+        />
+</LinearLayout>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:guodong="http://schemas.android.com/apk/res-auto"
+    android:background="@color/lightwhite"
+    android:scrollbars="none">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <include layout="@layout/fragment_mine_user_layout" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/size_60"
+            android:background="@color/textcolor_white_a"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <vgmovie.heguodong.customview.ImageDoubleTextView
+                android:id="@+id/mineTickets"
+                style="@style/ImageDoubleTextViewStyle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                guodong:imageSource="@drawable/ic_mine_my_ticket"
+                guodong:top_default_text="@string/mine_tickets"
+                 />
+
+            <View
+                android:layout_width="0.5dp"
+                android:layout_height="40dp"
+                android:background="@color/background_bg2" />
+
+            <vgmovie.heguodong.customview.ImageDoubleTextView
+                android:id="@+id/mineCoupon"
+                style="@style/ImageDoubleTextViewStyle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                guodong:imageSource="@drawable/ic_mine_my_coupon"
+                guodong:top_default_text="@string/mine_coupon"
+                 />
+
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/background_bg2" />
+
+        <vgmovie.heguodong.customview.MenuItemView
+            android:id="@+id/messageCenter"
+            style="@style/MineMenuItemStyle"
+            android:layout_marginTop="@dimen/size_20"
+            guodong:leftFlagImg="@drawable/ic_mine_msg_center"
+            guodong:textString="@string/message_center"
+            guodong:topDevider="@color/background_bg2" />
+
+        <vgmovie.heguodong.customview.MenuItemView
+            android:id="@+id/mineMovie"
+            style="@style/MineMenuItemStyle"
+            android:layout_marginTop="@dimen/size_20"
+            guodong:isDeviderAlignTextLeft="true"
+            guodong:leftFlagImg="@drawable/ic_mine_my_movie"
+            guodong:textString="@string/mine_movie"
+            guodong:topDevider="@color/background_bg2" />
+
+        <vgmovie.heguodong.customview.MenuItemView
+            android:id="@+id/mineCommunity"
+            style="@style/MineMenuItemStyle"
+            guodong:isDeviderAlignTextLeft="true"
+            guodong:leftFlagImg="@drawable/ic_mine_my_community"
+            guodong:textString="@string/mine_community" />
+
+        <vgmovie.heguodong.customview.MenuItemView
+            android:id="@+id/minePost"
+            style="@style/MineMenuItemStyle"
+            guodong:isDeviderAlignTextLeft="true"
+            guodong:leftFlagImg="@drawable/ic_mine_my_post"
+            guodong:textString="@string/mine_post" />
+
+        <vgmovie.heguodong.customview.MenuItemView
+            android:id="@+id/mineCollection"
+            style="@style/MineMenuItemStyle"
+            guodong:leftFlagImg="@drawable/ic_mine_my_collection"
+            guodong:textString="@string/mine_collection" />
+
+        <vgmovie.heguodong.customview.MenuItemView
+            android:id="@+id/mineGoods"
+            style="@style/MineMenuItemStyle"
+            android:layout_marginTop="@dimen/size_20"
+            guodong:leftFlagImg="@drawable/ic_mine_my_goods"
+            guodong:textString="@string/mine_goods"
+            guodong:topDevider="@color/background_bg2" />
+
+        <vgmovie.heguodong.customview.MenuItemView
+            android:id="@+id/appSet"
+            style="@style/MineMenuItemStyle"
+            android:layout_marginTop="@dimen/size_20"
+            android:layout_marginBottom="@dimen/size_20"
+            guodong:leftFlagImg="@drawable/ic_mine_setting"
+            guodong:textString="@string/app_set"
+            guodong:topDevider="@color/background_bg2" />
+    </LinearLayout>
+
+</ScrollView>

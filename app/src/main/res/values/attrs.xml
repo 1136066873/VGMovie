@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <declare-styleable name="CustomTabItemView">
+        <attr name="contentTextSize" format="dimension"/> <!-- 字体大小 -->
+        <attr name="contentTextColor" format="color"/> <!-- 字体颜色 -->
+        <attr name="contentTextString" format="string"/> <!-- 显示的默认文字 -->
+        <attr name="contentLogoBack" format="reference"/> <!-- item背景 -->
+        <attr name="contentLogoSize" format="dimension" />
+    </declare-styleable>
+
+    <declare-styleable name="TopTitleBar">
+        <attr name="titleSourceId" format="reference"/>
+    </declare-styleable>
+
+
+    <declare-styleable name="Roundedimageview">
+        <attr name="border_thickness" format="dimension" />
+        <attr name="border_color" format="color" />
+    </declare-styleable>
+
+
+
+    <declare-styleable name="ImageDoubleTextView">
+        <attr name="imageSource" format="reference"/>
+        <attr name="imageSize" format="reference"/>
+        <attr name="top_default_text" format="string"/>
+        <attr name="bottom_default_text" format="string"/>
+        <attr name="top_text_color" format="color"/>
+        <attr name="top_text_size" format="dimension"/>
+        <attr name="bottom_text_color" format="color"/>
+        <attr name="bottom_text_size" format="dimension"/>
+        <attr name="text_margin_left" format="dimension"/>
+    </declare-styleable>
+
+
+    <declare-styleable name="MenuItemView">
+        <attr name="leftPadding" format="dimension"/> <!-- 距离左边宽度 -->
+        <attr name="rightPadding" format="dimension"/> <!-- 距离右边宽度 -->
+        <attr name="isDeviderAlignTextLeft" format="boolean"/> <!-- 分割线是否要设置以上leftPadding,适用于bottomDevider -->
+        <attr name="textSize" format="dimension"/> <!-- 字体大小 -->
+        <attr name="textColor" format="color"/> <!-- 字体颜色 -->
+        <attr name="mbackground" format="reference"/> <!-- item背景 -->
+        <attr name="rightFlagImg" format="reference"/> <!-- 右边图片资源 -->
+        <attr name="leftFlagImg" format="reference"/> <!-- 右边图片资源 -->
+        <attr name="topDevider" format="reference"/> <!-- 上分割线 -->
+        <attr name="bottomDevider" format="reference"/> <!-- 下分割线 -->
+        <attr name="deviderHight" format="dimension"/> <!-- 分割线高度 -->
+        <attr name="textString" format="string"/> <!-- 显示的默认文字 -->
+        <attr name="leftImageSize" format="dimension"/> <!-- 字体大小 -->
+        <attr name="rightImageSize" format="dimension"/> <!-- 字体大小 -->
+        <attr name="rippleColor" format="color" />
+        <attr name="alphaFactor" format="float" />
+        <attr name="hover" format="boolean" />
+    </declare-styleable>
+
+
+
+
+
+
+
+
+
+
+</resources>

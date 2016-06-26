@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\title_bg.9.png",
+        "source": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\src\\main\\res\\drawable\\title_bg.9.png"
+    },
+    {
+        "merged": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_tab_cinema.xml",
+        "source": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\src\\main\\res\\drawable\\selector_tab_cinema.xml"
+    },
+    {
+        "merged": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_click_color.xml",
+        "source": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\src\\main\\res\\drawable\\selector_click_color.xml"
+    },
+    {
+        "merged": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_white_back.xml",
+        "source": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\src\\main\\res\\drawable\\shape_white_back.xml"
+    },
+    {
+        "merged": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rb_mine_selector.xml",
+        "source": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\src\\main\\res\\drawable\\rb_mine_selector.xml"
+    },
+    {
+        "merged": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_tab_community.xml",
+        "source": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\src\\main\\res\\drawable\\selector_tab_community.xml"
+    },
+    {
+        "merged": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_grey_back.xml",
+        "source": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\src\\main\\res\\drawable\\shape_grey_back.xml"
+    },
+    {
+        "merged": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rb_movie_selector.xml",
+        "source": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\src\\main\\res\\drawable\\rb_movie_selector.xml"
+    },
+    {
+        "merged": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_tab_movie.xml",
+        "source": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\src\\main\\res\\drawable\\selector_tab_movie.xml"
+    },
+    {
+        "merged": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_tab_mine.xml",
+        "source": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\src\\main\\res\\drawable\\selector_tab_mine.xml"
+    },
+    {
+        "merged": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rb_cinema_selector.xml",
+        "source": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\src\\main\\res\\drawable\\rb_cinema_selector.xml"
+    },
+    {
+        "merged": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rb_discover_selector.xml",
+        "source": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\src\\main\\res\\drawable\\rb_discover_selector.xml"
+    },
+    {
+        "merged": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\show_view_layout_bg.9.png",
+        "source": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\src\\main\\res\\drawable\\show_view_layout_bg.9.png"
+    },
+    {
+        "merged": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "E:\\root\\project_stepbystep\\VGMovie\\VGMovie\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_text_cursor_material.xml"
+    }
+]

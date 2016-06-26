@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    xmlns:guodong="http://schemas.android.com/apk/res-auto"
+    android:paddingRight="8dp"
+    android:paddingLeft="4dp"
+    android:background="@color/background_bg1">
+
+    <include layout="@layout/top_left_flag" />
+
+
+    <vgmovie.heguodong.customview.CustomTitleTabBar
+        android:id="@+id/movie_topBar"
+        android:layout_width="@dimen/top_title_bar_sum_width"
+        android:layout_height="@dimen/top_title_bar_height"
+        android:layout_centerInParent="true"
+        guodong:titleSourceId="@array/movie_title"  />
+
+    <include layout="@layout/top_right_search" />
+
+
+
+</RelativeLayout>

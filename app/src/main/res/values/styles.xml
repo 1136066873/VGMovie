@@ -1,0 +1,82 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+
+    <!-- 使用自定义属性时，只需要把MainActivity 所在的包名写上即可，如下方式: -->
+    <style name="CustomTabItemStyle">
+        <item name="vgmovie.heguodong:contentTextSize">@dimen/tab_text_size</item>
+        <item name="vgmovie.heguodong:contentLogoSize">@dimen/tab_logo_size</item>
+        <item name="vgmovie.heguodong:contentTextColor">@color/textcolor_black_b3</item>
+    </style>
+
+
+    <style name="ImageDoubleTextViewStyle">
+        <item name="vgmovie.heguodong:imageSize">@dimen/size_30</item>
+        <item name="vgmovie.heguodong:bottom_default_text">@string/mine_default</item>
+        <item name="vgmovie.heguodong:top_text_color">@color/textcolor_black_b3</item>
+        <item name="vgmovie.heguodong:top_text_size">@dimen/title_text_size_02</item>
+        <item name="vgmovie.heguodong:bottom_text_color">@color/textcolor_black_b1</item>
+        <item name="vgmovie.heguodong:bottom_text_size">@dimen/title_text_size</item>
+        <item name="vgmovie.heguodong:text_margin_left">@dimen/mine_margin2</item>
+        <item name="android:paddingRight">@dimen/size_40</item>
+    </style>
+
+
+
+    <style name="MineMenuItemStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/size_50</item>
+        <item name="vgmovie.heguodong:leftPadding">@dimen/mine_margin2</item>
+        <item name="vgmovie.heguodong:rightPadding">@dimen/mine_margin2</item>
+        <item name="vgmovie.heguodong:textSize">@dimen/title_text_size</item>
+        <item name="vgmovie.heguodong:textColor">@color/textcolor_black_b2</item>
+        <item name="vgmovie.heguodong:rightFlagImg">@drawable/arrow_right_gray</item>
+        <item name="vgmovie.heguodong:background">@color/textcolor_white_a</item>
+        <item name="vgmovie.heguodong:leftImageSize">@dimen/size_20</item>
+        <item name="vgmovie.heguodong:rightImageSize">@dimen/size_15</item>
+        <item name="vgmovie.heguodong:bottomDevider">@color/background_bg2</item>
+        <item name="vgmovie.heguodong:alphaFactor">0.7</item>
+        <item name="vgmovie.heguodong:rippleColor">@color/rippleColor</item>
+        <item name="vgmovie.heguodong:hover">true</item>
+    </style>
+
+
+    <!--<style name="ImageDoubleTextViewStyle">-->
+        <!--<item name="com.demo.dandy:imageSize">@dimen/size_30</item>-->
+        <!--<item name="com.demo.dandy:bottom_default_text">@string/mine_default</item>-->
+        <!--<item name="com.demo.dandy:top_text_color">@color/textcolor_black_b3</item>-->
+        <!--<item name="com.demo.dandy:top_text_size">@dimen/title_text_size_02</item>-->
+        <!--<item name="com.demo.dandy:bottom_text_color">@color/textcolor_black_b1</item>-->
+        <!--<item name="com.demo.dandy:bottom_text_size">@dimen/title_text_size</item>-->
+        <!--<item name="com.demo.dandy:text_margin_left">@dimen/mine_margin2</item>-->
+        <!--<item name="android:paddingRight">@dimen/size_40</item>-->
+    <!--</style>-->
+
+    <!--<style name="MineMenuItemStyle">-->
+        <!--<item name="android:layout_width">match_parent</item>-->
+        <!--<item name="android:layout_height">@dimen/size_50</item>-->
+        <!--<item name="com.demo.dandy:leftPadding">@dimen/mine_margin2</item>-->
+        <!--<item name="com.demo.dandy:rightPadding">@dimen/mine_margin2</item>-->
+        <!--<item name="com.demo.dandy:textSize">@dimen/title_text_size</item>-->
+        <!--<item name="com.demo.dandy:textColor">@color/textcolor_black_b2</item>-->
+        <!--<item name="com.demo.dandy:rightFlagImg">@drawable/arrow_right_gray</item>-->
+        <!--<item name="com.demo.dandy:background">@color/textcolor_white_a</item>-->
+        <!--<item name="com.demo.dandy:leftImageSize">@dimen/size_20</item>-->
+        <!--<item name="com.demo.dandy:rightImageSize">@dimen/size_15</item>-->
+        <!--<item name="com.demo.dandy:bottomDevider">@color/background_bg2</item>-->
+        <!--<item name="com.demo.dandy:alphaFactor">0.7</item>-->
+        <!--<item name="com.demo.dandy:rippleColor">@color/rippleColor</item>-->
+        <!--<item name="com.demo.dandy:hover">true</item>-->
+    <!--</style>-->
+
+
+
+
+</resources>

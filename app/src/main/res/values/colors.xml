@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+
+
+
+        <!--     <color name="textcolor_black_b1">#111111</color>
+            <color name="textcolor_black_b2">#666666</color>
+            <color name="textcolor_black_b4">#bbbbbb</color>
+            <color name="textcolor_blue_c">#0099ff</color>
+            <color name="textcolor_blue_c2">#a9dbfc</color>
+            <color name="textcolor_blue_text">#006ec1</color>
+            <color name="textcolor_green_e">#19aa49</color>
+            <color name="background_bg1">#ebebe9</color>
+            <color name="background_bg3">#ff0000</color>
+            <color name="background_bg5">#f5f5f5</color>
+            <color name="background_bg9">#e0e0e0</color>
+            <color name="dark">#FF222222</color>暗色
+            <color name="light">#FFEEEEEE</color>亮色
+            <color name="gestureline_green">#99319b00</color>
+            <color name="gestureline_red">#99cd220a</color>
+            <color name="highlight">#45C01A</color>
+            <drawable name="more_popu_pressed">#d9d9d9</drawable>
+            <drawable name="more_popu_normal">#ffffff</drawable>
+            <drawable name="background_bg5">#ebebeb</drawable>
+            <drawable name="contact_bottom_popu_normal">#ebebe9</drawable> -->
+
+
+
+
+        <color name="background_bg1">#DC143C</color>
+        <color name="background_bg2">#e1e1e1</color>
+        <color name="background_bg3">#696969</color>
+        <color name="background_bg7">#f6f6f5</color>
+        <color name="textcolor_white_a">#FFFFFF</color>
+        <color name="textcolor_black_b1">#000000</color>
+        <color name="textcolor_black_b2">#666666</color>
+        <color name="textcolor_black_b3">#999999</color>
+        <color name="textcolor_red_text">#c2001e</color>
+        <color name="textcolor_red_d">#e5533b</color>
+        <color name="transparent">#00000000</color>
+        <color name="darkgrey">#DDDDDD</color><!--亮灰色  -->
+        <color name="lightgray">#999999</color><!-- 浅灰 -->
+        <color name="lightwhite">#EEEEEE</color><!--浅白色    -->
+        <color name="rippleColor">#58FAAC</color>
+
+
+
+
+
+
+
+
+</resources>
